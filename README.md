@@ -17,6 +17,9 @@ Only One Step. Copy And Run Code:
    ```bash
    bash <(curl -s https://raw.githubusercontent.com/yusiqo/PrismLauncher-Installer/main/install.sh)
    ```
+   ```bash
+   curl https://raw.githubusercontent.com/yusiqo/PrismLauncher-Installer/main/install.sh | bash
+   ```
 
 ## Requirements
 
